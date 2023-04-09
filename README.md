@@ -1,2 +1,8 @@
-# HTML_and_CSS_Template1
-My First HTML &amp; CSS Template 
+# HTML &amp; CSS Template1
+
+Supervisor:
+  - Eng/ Osama Elzero
+  
+Contributor:
+  - Mohamed Adel
+
